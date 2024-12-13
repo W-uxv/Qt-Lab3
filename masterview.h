@@ -39,6 +39,8 @@ private slots:
 
     void on_btLogout_clicked();
 
+    void on_pushButton_clicked();
+
 private:
 
     void pushWidgetToStackView(QWidget *widget);
